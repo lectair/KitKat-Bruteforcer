@@ -92,7 +92,7 @@ headers = {
     "Content-Type": "application/x-www-form-urlencoded",
     "Origin": "https://www.kitkat.es",
     "Accept-Encoding": "gzip, deflate, br",
-    'Cookie': '__utmvapRuoVmP=STd; __utmvaDRuoVmP=ZmQ; _fbp=fb.1.1595455077323.1915030075; _ga=GA1.2.1709720834.1595466671; _gid=GA1.2.2111114351.1595466671; incap_ses_507_346352=YN/tex65LC+I56lG7DkJB5P2GF8AAAAAdqDtrxpmamiYRQXS4ObW+w==; visid_incap_346352=ijzmO5geQ1qhOhnOEoKXMGC2GF8AAAAAQUIPAAAAAADUcp5Bi2v5YY4uxbkuELqp; kppid_managed=kppid_NigE1p-e; _dc_gtm_UA-27534376-1=1; _dc_gtm_UA-50092604-3=1; _dc_gtm_UA-59341526-1=1; _gat_localTracker=1; incap_ses_486_346352=5DBSAfYtljm17R5xhp6+Bpb2GF8AAAAA1iFZj7GTstbXXz11pjueLA==; PHPSESSID=3neafj2kp0h7j2cut873k846f7; incap_ses_505_346352=bHmzAT8u0gWQ3kul8x4CB7jjGF8AAAAAESsCt3iXiy4p6WqBErCB1A==; KITKAT_AUTH_TOKEN=2977fd70-fc88-44f7-a38b-2e9bcbf60938; _gcl_au=1.1.397024509.1595455076; _evidon_consent_cookie={"consent_date":"2020-07-22T21:57:56.212Z","consent_type":1}; incap_ses_508_346352=Ps5KTp2nKEg7F2enYccMB2C2GF8AAAAAuG5ZpYdnIL+dgL8hvI1sog==',
+    'Cookie': 'INSERT_COOKIES_HERE',
     "Connection": "keep-alive",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,/;q=0.8",
     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1",
@@ -103,7 +103,7 @@ headers = {
 
 body = {
     "csrf": "cae74c690a3f40685c859861248821dd18904dd8f335de2a9bcef7e321e611a506097800fac1a66f",
-    "pincode": "TT8dmGWZmC",
+    "pincode": "AuT0GNraTD",
     "acceptTerms": "true"
 }
 
