@@ -10,3 +10,9 @@ There are two modes, random and specific:<br>
 You can set a number of threads to make it faster.<br>
 This is still on beta phase so it doesn't work properly yet.
 More than 1 or 2 threads doesn't usually work.
+
+<hr>
+<h4>Usage:</h4>
+<img src="https://raw.githubusercontent.com/lectair/KitKat-Bruteforcer/master/usage.png" alt="Usage" style="size:2%;">
+<h4>Working code:</h4>
+<img src="https://raw.githubusercontent.com/lectair/KitKat-Bruteforcer/master/code_sent.png" alt="Code sent" style="size:2%;">
