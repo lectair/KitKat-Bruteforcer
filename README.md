@@ -18,9 +18,9 @@ If this doesn't work, try "pip" instead of "pip3".
 
 <hr>
 <h3>Usage:</h3>
-First of all, you need to edit the line 87 in order to set your account. You have to put your cookies in the 'Cookies' value.<br><br>
+First of all, you need to edit the line 87 in order to set your account. You have to put your cookies in the 'Cookies' value.<br><br><br>
 
-Usage:    python3 kitkat_bruteforcer.py [random/specific] [threads]<br>
+Usage:    python3 kitkat_bruteforcer.py [random/specific] [threads]<br><br>
 Example:  python3 kitkat_bruteforcer.py specific 2
 
 <hr>
