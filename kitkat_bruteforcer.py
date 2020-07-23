@@ -10,7 +10,7 @@ try:
     from colorama import init, Fore, Back, Style
     from bs4 import BeautifulSoup
 except:
-    print('Missing Colorama and BeautifulSoup4 modules!\n')
+    print('Missing Colorama and/or BeautifulSoup4 modules!\n')
     sys.exit()
    
 logo = ''' _   ___ _     _   __      _   
