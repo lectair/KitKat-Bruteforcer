@@ -1,6 +1,6 @@
 <h1>KitKat Bruteforcer</h1>
 
-This is a tool written in Python that attempts to get some working codes for the KitKat iPhone 11 raffle.
+This is a tool written in Python3 that attempts to get some working codes for the KitKat iPhone 11 raffle.
 
 There are two modes, random and specific:<br>
     &nbsp;&nbsp;- Random mode: Generates a random string with numbers, uppercase and lowercase letters.<br>
@@ -13,6 +13,7 @@ More than 1 or 2 threads doesn't usually work.
 <hr>
 <h3>Installation:</h3>
 To install the required modules, run the following command in your command line: <pre>pip3 install -r requirements.txt</pre>
+If this doesn't work, try "pip" instead of "pip3".
 
 <hr>
 <h4>Usage:</h4>
