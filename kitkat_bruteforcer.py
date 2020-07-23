@@ -109,7 +109,7 @@ soup = BeautifulSoup(text, 'lxml')
 try:
     csrf = soup.find("input", {"name":"csrf"})['value']
 except TypeError:
-    print(f'{getTime()} {Fore.BLACK + Back.WHITE}[!] You didn\'t set the cookies or they are obsolete! {Style.DIM}Change line 87 with your \'Cookies\' header value.{Style.RESET_ALL}')
+    print(f'{getTime()} {Fore.BLACK + Back.WHITE}[!] You didn\'t set the cookies or they are obsolete! {Style.DIM}Change line 87 with your \'Cookies\' header value.{Style.RESET_ALL}\n')
     sys.exit()
 
 def worker(headers=headers, csrf=csrf, code=getCode()):
