@@ -59,15 +59,6 @@ else:
     except:
         printUsage()
         sys.exit()
-        
-def getCode():
-    upper = ''.join(random.choices(string.ascii_uppercase, k=6))
-    lower = ''.join(random.choices(string.ascii_lowercase, k=3))
-    num = ''.join(random.choices(string.digits, k=1))
-
-    code = upper+lower+num
-    code = ''.join(random.sample(code,len(code)))
-    return code
 
 def getTime():
     now = datetime.datetime.now()
