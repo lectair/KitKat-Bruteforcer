@@ -7,5 +7,6 @@ There are two modes, random and specific:
     - Specific mode: Generates a string with 6 uppercase letters, 3 lowercase letters and 1 number.
 
 <h3>BETA - Threading:</h3>
-You can set a number of threads to make it faster. This is still on beta phase so it doesn't work properly yet.
+You can set a number of threads to make it faster.
+This is still on beta phase so it doesn't work properly yet.
 More than 1 or 2 threads doesn't usually work.
