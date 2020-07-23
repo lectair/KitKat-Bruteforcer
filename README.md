@@ -10,6 +10,9 @@ There are two modes, random and specific:<br>
 You can set a number of threads to make it faster.<br>
 This is still on beta phase so it doesn't work properly yet.
 More than 1 or 2 threads doesn't usually work.
+<hr>
+<h3>Installation:</h3>
+To install the required modules, run the following command in your command line: <pre>pip3 install -r requirements.txt</pre>
 
 <hr>
 <h4>Usage:</h4>
