@@ -26,6 +26,6 @@ Example:  python3 kitkat_bruteforcer.py specific 2
 <hr>
 <h3>Images</h3>
 <h4>Usage</h4>
-<img src="https://raw.githubusercontent.com/lectair/KitKat-Bruteforcer/master/usage.png" alt="Usage" style="size:2%;">
+<img src="https://raw.githubusercontent.com/lectair/KitKat-Bruteforcer/master/img/usage.png" alt="Usage" style="size:2%;">
 <h4>Working code:</h4>
-<img src="https://raw.githubusercontent.com/lectair/KitKat-Bruteforcer/master/code_sent.png" alt="Code sent" style="size:2%;">
+<img src="https://raw.githubusercontent.com/lectair/KitKat-Bruteforcer/master/img/code_sent.png" alt="Code sent" style="size:2%;">
