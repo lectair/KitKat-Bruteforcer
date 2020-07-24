@@ -20,7 +20,7 @@ If this doesn't work, try "pip" instead of "pip3".
 <h3>Setting up cookies:</h3>
 First of all you have to sign up into the <a href="https://www.kitkat.es/promo-iphone/">KitKat website</a>. Then you have to go to the code submitting page and open your browser inspector (Ctrl+Shift+I).<br>In my case I will be using Firefox but this works for Chrome too at least. Go to the Network tab and then submit a random code.
 <img src="https://raw.githubusercontent.com/lectair/KitKat-Bruteforcer/master/img/cookies1.png" alt="Sending code" style="size:2%;"><br>
-This will generate some GET & POST requests that are visible in your browser inspector. You have to select the unique POST request and go to the request headers part. Search the Cookie header and copy its value.
+This will generate some GET & POST requests that are visible in your browser inspector. You have to select the only POST request and go to the request headers part in the right tab. Search the Cookie header and copy its value.
 <img src="https://raw.githubusercontent.com/lectair/KitKat-Bruteforcer/master/img/cookies2.png" alt="Browser Inspector" style="size:2%;"><br>
 This is the value that you have to paste into the line 87. Just paste it inside the quotes.
 <img src="https://raw.githubusercontent.com/lectair/KitKat-Bruteforcer/master/img/cookies3.png" alt="Paste the cookies" style="size:2%;"><br>
