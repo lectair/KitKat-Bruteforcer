@@ -27,9 +27,9 @@ This is the value that you have to paste into the line 87. Just paste it inside 
 
 <hr>
 <h3>Usage:</h3>
-Once you've set your cookies you can run the tool just by using the following instructions:<br>
+Once you've set your cookies you can run the tool just by using the following instructions:<br><br>
 
-Usage:    python3 kitkat_bruteforcer.py [random/specific] [threads]<br><br>
+Usage:    python3 kitkat_bruteforcer.py [random/specific] [threads]<br>
 Example:  python3 kitkat_bruteforcer.py specific 2
 
 <hr>
